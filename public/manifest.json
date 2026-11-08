@@ -1,0 +1,19 @@
+{
+  "name": "SP Trilhas - Ecoturismo & Trekking",
+  "short_name": "SP Trilhas",
+  "description": "Guia definitivo de trilhas e ecoturismo do Estado de São Paulo: Capital, Interior e Litoral.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#142921",
+  "theme_color": "#142921",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
